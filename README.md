@@ -9,7 +9,7 @@ FlowBrowser is a desktop web browser built with C#, WPF, CefSharp, and Chromium 
 
 ## Screenshots
 
-![FlowBrowser Screenshot 01](screenshot-01.png)
+![FlowBrowser Screenshot 01](screenshots/screenshot-01.png)
 
 ## Features
 
@@ -27,7 +27,7 @@ FlowBrowser is a desktop web browser built with C#, WPF, CefSharp, and Chromium 
 - 30 additional internal browser pages
 - Keyboard shortcuts
 
-![FlowBrowser Screenshot 02](screenshot-02.png)
+![FlowBrowser Screenshot 02](screenshots/screenshot-02.png)
 
 ## Internal Pages
 
@@ -80,7 +80,7 @@ The following pages are also available:
 
 **Important:** The 30 additional internal pages are currently informational or placeholder pages. Their advanced functionality has not yet been enabled. The core pages have varying levels of implemented functionality.
 
-![FlowBrowser Screenshot 03](screenshot-03.png)
+![FlowBrowser Screenshot 03](screenshots/screenshot-03.png)
 
 ## Keyboard Shortcuts
 
@@ -99,7 +99,7 @@ FlowBrowser includes an extension import interface.
 
 Currently, importing an extension file does not guarantee that the extension will be installed or activated in Chromium. Full extension support is not guaranteed.
 
-![FlowBrowser Screenshot 04](screenshot-04.png)
+![FlowBrowser Screenshot 04](screenshots/screenshot-04.png)
 
 ## Downloads
 
@@ -114,7 +114,7 @@ Available release packages may include:
 
 Release assets are provided when published.
 
-![FlowBrowser Screenshot 05](screenshot-05.png)
+![FlowBrowser Screenshot 05](screenshots/screenshot-05.png)
 
 ## System Requirements
 
@@ -132,7 +132,7 @@ When visiting websites or using web search, your browser communicates with the r
 
 FlowBrowser does not currently claim to provide complete tracking protection, anonymity, or advanced privacy protection.
 
-![FlowBrowser Screenshot 06](screenshot-06.png)
+![FlowBrowser Screenshot 06](screenshots/screenshot-06.png)
 
 ## Technology Stack
 
