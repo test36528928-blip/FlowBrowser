@@ -7,6 +7,10 @@ FlowBrowser is a desktop web browser built with C#, WPF, CefSharp, and Chromium 
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue)](https://www.microsoft.com/windows)
 [![Version](https://img.shields.io/badge/version-2.0.0-informational)](https://github.com/test36528928-blip/FlowBrowser/releases)
 
+## Screenshots
+
+![FlowBrowser Screenshot 01](screenshot-01.png)
+
 ## Features
 
 - Chromium-based web browsing
@@ -22,6 +26,8 @@ FlowBrowser is a desktop web browser built with C#, WPF, CefSharp, and Chromium 
 - Browser context menu
 - 30 additional internal browser pages
 - Keyboard shortcuts
+
+![FlowBrowser Screenshot 02](screenshot-02.png)
 
 ## Internal Pages
 
@@ -74,6 +80,8 @@ The following pages are also available:
 
 **Important:** The 30 additional internal pages are currently informational or placeholder pages. Their advanced functionality has not yet been enabled. The core pages have varying levels of implemented functionality.
 
+![FlowBrowser Screenshot 03](screenshot-03.png)
+
 ## Keyboard Shortcuts
 
 | Shortcut | Action |
@@ -91,6 +99,8 @@ FlowBrowser includes an extension import interface.
 
 Currently, importing an extension file does not guarantee that the extension will be installed or activated in Chromium. Full extension support is not guaranteed.
 
+![FlowBrowser Screenshot 04](screenshot-04.png)
+
 ## Downloads
 
 Download the latest available FlowBrowser release:
@@ -103,6 +113,8 @@ Available release packages may include:
 - **Portable Version:** `FlowBrowser-Portable-x64.zip`
 
 Release assets are provided when published.
+
+![FlowBrowser Screenshot 05](screenshot-05.png)
 
 ## System Requirements
 
@@ -119,6 +131,8 @@ FlowBrowser stores browser data such as settings, bookmarks, and browsing histor
 When visiting websites or using web search, your browser communicates with the relevant websites and services.
 
 FlowBrowser does not currently claim to provide complete tracking protection, anonymity, or advanced privacy protection.
+
+![FlowBrowser Screenshot 06](screenshot-06.png)
 
 ## Technology Stack
 
